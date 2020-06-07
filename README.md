@@ -53,6 +53,9 @@
   <li>Build an effective business</li>
 </ul>
 <hr>
+<br>
+<br>
+<hr>
 
 <h2>Unit 1: Introduction to Startups</h2>
 
@@ -107,6 +110,8 @@
     <li>Write up: What are the things under your control as an entrepreneur that increase your likelihood of success? How do they fit into broader patterns of startup success?</li>
   </ul>
 
+<hr>
+
 <h2>Unit 2:The Components of a Startup Company</h2>
   <h3>Key Takeaways</h3>
   <ul>
@@ -156,6 +161,8 @@
     <li>Identify any additional roles not covered that may need to be filled early in the life of the business</li>
   </ul>
 
+<hr>
+
 <h2>Unit 3: The Stages of a Startup</h2>
   <h3>Key Takeaways</h3>
   <ul>
@@ -175,6 +182,8 @@
   <ul>
     <li>Write a 1-page summary sheet on the stages of a startup, and requirements for each stage</li>
   </ul>
+
+<hr>
 
 <h2>Unit 4: Ideation</h2>
   <h3>Key Takeaways</h3>
@@ -242,6 +251,8 @@
     <li>Create a story strategy for your startup</li>
   </ul>
 
+<hr>
+
 <h2>Unit 5: Identifying Your Market</h2>
   <h3>Key Takeaways</h3>
   <ul>
@@ -292,6 +303,8 @@
     <li>Define the features of your startup's MVP</li>
   </ul>
   
+<hr>
+
 <h2>Unit 6: Understanding Your Customer</h2>
   <h3>Key Takeaways</h3>
   <ul>
@@ -329,6 +342,8 @@
     <li>Develop a full life cycle use case for your startup’s core product</li>
     <li>Write out a clear description of the core pain point you are solving for your customers</li>
   </ul>
+
+<hr>
 
 <h2>Unit 7: Designing Your Business Model</h2>
   <h3>Key Takeaways</h3>
@@ -383,6 +398,8 @@
     <li>Identify your startup’s key differentiators</li>
     <li>Set the scope of your startup’s business</li>
   </ul>
+
+<hr>
 
 <h2>Unit 8: People Skills for Nerds</h2>
 <h3>Key Takeaways</h3>
@@ -441,6 +458,8 @@
   <li>Test techniques in everyday life</li>
 </ul>
 
+<hr>
+
 <h2>Unit 9: Pitching and Raising Capital</h2>
 <h3>Key Takeaways</h3>
 <ul>
@@ -486,6 +505,8 @@
   <li>Prepare to issue securities</li>
 </ul>
 
+<hr>
+
 <h2>Unit 10: Testing Your Business Model</h2>
 <h3>Key Takeaways</h3>
 <ul>
@@ -516,6 +537,8 @@
   <li>Evaluate the strength of your startup’s proposed solution</li>
   <li>Evaluate the strength of your startup’s proposed business model</li>
 </ul>
+
+<hr>
 
 <h2>Unit 11: The Work of a Startup Executive</h2>
 <h3>Key Takeaways</h3>
@@ -553,6 +576,8 @@
   <li>Identify potential role and relationship conflicts and codify solutions</li>
   <li>Make a networking skill cheat sheet</li>
 </ul>
+
+<hr>
 
 <h2>Unit 12: Critical Thinking for Founders</h2>
 <h3>Key Takeaways</h3>
@@ -603,6 +628,8 @@
   <li>Write up your startup’s key business assumptions</li>
 </ul>
 
+<hr>
+
 <h2>Unit 13: Building Software Products</h2>
 <h3>Key Takeaways</h3>
 <ul>
@@ -637,6 +664,8 @@
   <li>Establish coding guidelines and standards for your startup’s codebase development</li>
   <li>Set out high-level product specs and a product plan for your startup</li>
 </ul>
+
+<hr>
 
 <h2>Unit 14: Financial Planning</h2>
 <h3>Key Takeaways</h3>
@@ -686,6 +715,8 @@
   <li>Evaluate the value of individual and networked user data captured within your startup’s MVP</li>
   <li>Define your startup’s Minimum Viable Business Product</li>
 </ul>
+
+<hr>
 
 <h2>Unit 15: Measuring Progress</h2>
 <h3>Key Takeaways</h3>
@@ -739,6 +770,8 @@
   <li>Define one Big Hairy Audacious Goal for your startup</li>
 </ul>
 
+<hr>
+
 <h2>Unit 16: Dealing With Customers</h2>
 <h3>Key Takeaways</h3>
 <ul>
@@ -791,6 +824,8 @@
   <li>Set practices to ensure the customer is at the heart of all work at your startup</li>
 </ul>
 
+<hr>
+
 <h2>Unit 17: Hiring</h2>
 <h3>Key Takeaways</h3>
 <ul>
@@ -830,6 +865,8 @@
   <li>Create a cheat sheet of hiring best practices</li>
   <li>Evaluate how to integrate hiring best practices into your startup’s product</li>
 </ul>
+
+<hr>
 
 <h2>Unit 18: Building a Culture</h2>
 <h3>Key Takeaways</h3>
@@ -888,6 +925,8 @@
   <li>Determine how to facilitate a culture of open communication within your startup’s core product, and nudge users towards better communication culture</li>
   <li>Set out the parameters for what you’d like your startup’s culture to look like</li>
 </ul>
+
+<hr>
 
 <h2>Unit 19: Managing Teams</h2>
 <h3>Key Takeaways</h3>
@@ -950,6 +989,8 @@
   <li>Identify key inflection points in decision-making and triggers of conflict, power, and internal politics and map them onto your startup’s product flow. Determine ways to guide users around potential friction points towards better decision outcomes</li>
 </ul>
 
+<hr>
+
 <h2>Unit 20: Managing Innovation</h2>
 <h3>Key Takeaways</h3>
 <ul>
@@ -1001,6 +1042,8 @@
   <li>Create a cheat sheet of red flags that may impede innovation at your startup</li>
 </ul>
 
+<hr>
+
 <h2>Unit 21: Scaling Up</h2>
 <h3>Key Takeaways</h3>
 <ul>
@@ -1045,6 +1088,8 @@
   <li>Identify the inflection point when your startup begins to scale</li>
   <li>Write out potential pitfalls and areas of concern to prepare for in scaling your startup</li>
 </ul>
+
+<hr>
 
 <h2>Unit 22: Building and Managing Boards</h2>
 <h3>Key Takeaways</h3>
@@ -1091,6 +1136,8 @@
   <li>Write a personal strategy for managing the primary risks that come with success</li>
 </ul>
 
+<hr>
+
 <h2>Unit 24: Prepare for Failure</h2>
 <h3>Key Takeaways</h3>
 <ul>
@@ -1120,6 +1167,8 @@
 <ul>
   <li>Write out a personal strategy for managing, coping, and growing from failure</li>
 </ul>
+
+<hr>
 
 <h2>Unit 25: Exits</h2>
 <h3>Key Takeaways</h3>
