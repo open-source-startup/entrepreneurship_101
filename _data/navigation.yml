@@ -3,6 +3,9 @@
 - title: Home
   url: /
 
+- title: Index
+  url: /index.html
+
 - title: Entrepreneurship 101
   url: /entrepreneurship-101/
   sublinks:
@@ -58,3 +61,6 @@
       url: /entrepreneurship-101/unit-24.html
     - title: Unit 25, Exits
       url: /entrepreneurship-101/unit-25.html
+
+- title: Fundamentals of Web Engineering
+  url: /fundamentals-of-web-engineering/
