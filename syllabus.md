@@ -4,4 +4,4 @@ title: "Syllabus"
 permalink: /syllabus/
 ---
 
-Test
+<p>Test</p>
