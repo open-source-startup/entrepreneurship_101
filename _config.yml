@@ -6,6 +6,9 @@ permalink: /:title
 
 baseurl: ""
 
+exclude:
+- README.md
+
 theme: jekyll-theme-cayman
 
 description: Course page for the Open Source Startup Entrepreneurship 101 Course
