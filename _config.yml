@@ -1,3 +1,11 @@
-theme: jekyll-theme-cayman
+### open-source-startup
+
 title: Open Source Startup: Entrepreneurship 101
+
+permalink: /:title
+
+baseurl: ""
+
+theme: jekyll-theme-cayman
+
 description: Course page for the Open Source Startup Entrepreneurship 101 Course
